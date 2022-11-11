@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D46A366A-B976-4528-BEC8-E586BC35D088"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB7A85A3-B475-46F2-81B5-93226DE4CB6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Plane Detection/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "renderer(_:didUpdate:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB7A85A3-B475-46F2-81B5-93226DE4CB6D - 6c31fb38966d27df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Plane_Detection.ViewController.renderer(_: __C.SCNSceneRenderer, didUpdate: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "Plane Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/KPatel/Downloads/Plane%20Detection/Plane%20Detection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  uuid = "FB7A85A3-B475-46F2-81B5-93226DE4CB6D - 6c31fb38966d27df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Plane_Detection.ViewController.renderer(_: __C.SCNSceneRenderer, didUpdate: __C.SCNNode, for: __C.ARAnchor) -&gt; ()"
+                  moduleName = "Plane Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/KPatel/Downloads/Plane%20Detection/Plane%20Detection/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "317">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
